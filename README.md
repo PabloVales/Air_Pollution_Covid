@@ -61,7 +61,7 @@ where A = Y - X and <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&
 
 ## Files in repository
 
-- 2019Q<sub>i</sub> and 2020Q<sub>i</sub>: csv files with the Air Quality Index (AQI) data extracted from www.aqi.cn
+- 2019Q<sub>i</sub> and 2020Q<sub>i</sub>: csv files with the daily Air Quality Index (AQI) for 2019 and 2020 extracted from www.aqi.cn
 - Country_codes: txt file with country codes and country names extrated from www.datahub.io
 - AQI_notebook: Jupyter notebook with all the code and results from the analysis
   
