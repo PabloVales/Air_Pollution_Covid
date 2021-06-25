@@ -10,7 +10,7 @@ Anthropogenic contamination is on the rise and has been a main issue since the i
 
 The Covid-19 outbreak and the health security measures taken during 2020 have been an ideal field of study on many cities across the world to check how much air pollution decreased in the cities, under what circumstances and more importantly, how fast. This provides us with very useful data to understand how contamination decreases given a particular set of restrictions. 
 
-Therefore, for this study we will focus in Spain, which was one of the most strict in terms of health security measures: 3 months mandatory confinement from March 15th to June 21st and mobility restrictions for the remaining of 2020 and we will see how air quality improved. 
+Therefore, for this study we will focus in Spain, which was one of the most strict in terms of health security measures: 3 months mandatory confinement from March 15th to June 21st and mobility restrictions for the remaining of 2020. 
 
 ## OBJECTIVE
 
@@ -64,6 +64,14 @@ where A = Y - X and <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&
 - 2019Q<sub>i<sub> and 2020Q<sub>i<sub>: csv files with the Air Quality Index (AQI) data extracted from www.aqi.cn
 - Country_codes: txt file with country codes and country names extrated from www.datahub.io
 - AQI_notebook: Jupyter notebook with all the code and results from the analysis
+  
+## Summary
+
+When analyzing the country as a whole, we have found that the pollutant that decreased the most during 2020 was NO2, with a yearly decrease of -XX%, followed by PM25 with a XX%.  However, these drop values exacerbate when looking at the monthly data due to the strict confinement that took place between March 15th and June 21st, accounting to a maximum decrease of XX% for NO2 and XX% for PM25 in April 2020, directly related to the (almost) complete absence of vehicle in the cities. 
+
+The yearly NO2 values for individual cities show that there have been relative changes in 2020 compared to 2019 as deep as -50% in Palma, XX% in Madrid or XX% in Barcelona.
+
+  
   
 ## Requirements
 
