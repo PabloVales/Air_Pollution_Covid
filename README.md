@@ -69,9 +69,11 @@ where A = Y - X and <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&
   
 ## Summary
 
-When analyzing the country as a whole, we have found that the pollutant that decreased the most during 2020 was NO2, with a yearly decrease of -XX%, followed by PM25 with a XX%.  However, these drop values exacerbate when looking at the monthly data due to the strict confinement that took place between March 15th and June 21st, accounting to a maximum decrease of XX% for NO2 and XX% for PM25 in April 2020, directly related to the (almost) complete absence of vehicle in the cities. 
+We have analyzed daily air quality data in Spain across 23 main cities in the 2019-2020 period to check how much the Covid-19 restrictions affected the urban pollution. When analyzing the country as a whole, we have found that the pollutant that decreased the most during 2020 was NO<sub>2</sub>, with a yearly decrease of -16.95%, followed by PM<sub>25</sub> with a -11.34%. 
 
-The yearly NO2 values for individual cities show that there have been relative changes in 2020 compared to 2019 as deep as -50% in Palma, XX% in Madrid or XX% in Barcelona.
+However, these drop values exacerbate when looking at the monthly data due to the strict confinement that took place between March 15th and June 21st, accounting to a maximum decrease of -45.63% for NO<sub>2</sub> and -14.41% for PM<sub>25</sub> in April 2020, directly related to the (almost) complete absence of vehicle in the cities. 
+
+The yearly NO<sub>2</sub> values for individual cities show that there have been relative changes in 2020 compared to 2019 as deep as -50.39% in Palma, -17.26% in Madrid or -23.70% in Barcelona.
 
   
   
